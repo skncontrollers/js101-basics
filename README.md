@@ -16,6 +16,10 @@ Przeglądarka Google Chrome z narzędziami DevTools (domyślnie instalowane z pr
 - https://www.google.pl/chrome/browser/desktop/
 - https://developer.chrome.com/devtools
 
+## Postman
+Wtyczka do Google Chrome ułatwiająca pracę z RESTowymi API.
+- https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
+
 ## Edytor kodu
 ### Atom
 Darmowy edytor kodu napisany w JavaScripcie.
