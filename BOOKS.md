@@ -22,3 +22,6 @@ Seria podcastów na temat JS'a. Dość nowy projekt, na bieżąco wrzucane są n
 ## Inne
 - https://www.destroyallsoftware.com/talks/wat
 - https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+
+## Spotify Web API
+- https://developer.spotify.com/web-api/
